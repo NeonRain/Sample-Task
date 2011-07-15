@@ -1,0 +1,16 @@
+h1. Neon Rain Interactive Sample Task
+
+If you are performing this task, then you've already taken our assessment. The assessment is a basic test of competence, while this assignment is more representative of the type of work we do. It is also intended to familiarize you with Git and Dojo. The tasks that we work on are initially described by a _story_ and a list of _requirements_. A _story_ explains the _who_, _what_, and _why_ of a task. Let's take a look at the _story_ and _requirements_ for this task.
+
+h2. Story
+As a customer, I need to be able to use a form to submit a one time payment using my credit card.
+
+h2. Requirements
+
+* Include Full Name, Address, City, State/Province, Country, Postal Code, Card Number, Expiration Date, and CVV2
+* The form must submit the payment via the Authorize.net AIM API
+* The form must be submitted via Ajax and the response must be used to display either an error or a success message
+* Use Dojo for javascript interaction
+
+h2. Instructions
+
