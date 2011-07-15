@@ -4,7 +4,7 @@ If you are performing this task, then you've already taken our assessment. The a
 
 h2. Story
 
-As a an anonymous donator, I need to be able to use a form to submit a one time donation using my credit card.
+As an anonymous donator, I need to be able to use a form to submit a one time donation using my credit card.
 
 h2. Requirements
 
