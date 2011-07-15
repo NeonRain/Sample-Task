@@ -18,7 +18,9 @@ h2. Requirements
 h2. Instructions
 
 # First you'll want to create an account on GitHub and fork this project so you can work on it.
-# Next you'll want to edit *index.php* to output an HTML page with a form that fits with the requirements above.
-# Then you will need to edit *payment.php* to accept the parameters from the form and submit the payment to Authorize.net using the AIM API.
+# Next you'll want to create an *index.php* to output an HTML page with a form that fits with the requirements above.
+# Then you will need to create *payment.php* to accept the parameters from the form and submit the payment to Authorize.net using the AIM API.
 # The form submission must occur using Ajax so now you need to submit the data from *index.php* to *payment.php* and get back the response.
 # If the payment is declined, you will need to display the error response to the customer and allow them to try again. If it's successful, then replace the entire form with a success message.
+# Make sure you commit all of the files you've created and push them up to GitHub.
+# Send us the URL to your repo!
