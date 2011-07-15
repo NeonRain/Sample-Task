@@ -29,6 +29,8 @@ h2. Git
 
 You will need to create an account on GitHub and fork this project. We will review this assignment by accessing your forked repository.
 
+* for more information on git see "git-scm.com":http://git-scm.com
+
 h2. Dojo Toolkit
 
 You'll have to use Dojo instead of jQuery, Prototype or other JS libraries.
