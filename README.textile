@@ -34,7 +34,7 @@ h2. Dojo Toolkit
 You'll have to use Dojo instead of jQuery, Prototype or other JS libraries.
 
 * See "dojotoolkit.org":http://dojotoolkit.org to obtain a copy.
-* See "dojocampus.org":http://dojocampus.org for documentation.
+* See "dojotoolkit.org/documentation"http://dojotoolkit.org/documentation/ for documentation.
 
 h2. Payment Processing
 
