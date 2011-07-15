@@ -24,3 +24,11 @@ h2. Instructions
 # If the payment is declined, you will need to display the error response to the customer and allow them to try again. If it's successful, then replace the entire form with a success message.
 # Make sure you commit all of the files you've created and push them up to GitHub.
 # Send us the URL to your repo!
+
+h2. Payment Processing
+
+You will need to use Authorize.net's AIM API to submit payment. See here for details: http://developer.authorize.net/api/aim/.
+
+# Sign up for a test account at https://developer.authorize.net/testaccount
+# Check out the AIM documentation at http://www.authorize.net/support/AIM_guide.pdf
+# Here is an easy to use PHP class for working with the AIM API: https://github.com/botskonet/authorize.net
