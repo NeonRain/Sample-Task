@@ -38,8 +38,12 @@ You'll have to use Dojo instead of jQuery, Prototype or other JS libraries.
 
 h2. Payment Processing
 
-You will need to use Authorize.net's AIM API to submit payment. See here for details: "developer.authorize.net/api/aim/":http://developer.authorize.net/api/aim/.
+You will need to use Authorize.net's AIM API to submit payment.
 
 # Sign up for a test account at "developer.authorize.net/testaccount":https://developer.authorize.net/testaccount
-# Check out the AIM documentation at "authorize.net/support/AIM_guide.pdf":http://www.authorize.net/support/AIM_guide.pdf
 # Here is an easy to use PHP class for working with the AIM API: "github.com/botskonet/authorize.net":https://github.com/botskonet/authorize.net
+
+For more resources see:
+"developer.authorize.net/api/aim/":http://developer.authorize.net/api/aim/
+"authorize.net/support/AIM_guide.pdf":http://www.authorize.net/support/AIM_guide.pdf
+
